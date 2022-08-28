@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c7fcf95.css",
+    "main.js": "/static/js/main.573a5c65.js",
+    "static/js/787.6609b868.chunk.js": "/static/js/787.6609b868.chunk.js",
+    "static/media/she-and-me.jpeg": "/static/media/she-and-me.e564a4304b622e36b9a4.jpeg",
+    "static/media/coracao.webp": "/static/media/coracao.6408dd89ff12e321b930.webp",
+    "index.html": "/index.html",
+    "main.3c7fcf95.css.map": "/static/css/main.3c7fcf95.css.map",
+    "main.573a5c65.js.map": "/static/js/main.573a5c65.js.map",
+    "787.6609b868.chunk.js.map": "/static/js/787.6609b868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c7fcf95.css",
+    "static/js/main.573a5c65.js"
+  ]
+}

@@ -1,7 +1,6 @@
 import Card from "./components/card/card";
 import style from "./app.style.module.css";
 import Message from "./components/message/message";
-import ReactAudioPlayer from 'react-audio-player';
 
 export default function App() {
   return (
