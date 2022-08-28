@@ -1,5 +1,5 @@
 import style from "./card.style.module.css";
-import image from '/home/diego/documents/birthday/happybirthday/src/assets/she-and-me.jpeg'
+import image from '../../assets/she-and-me.jpeg'
 
 export default function Card() {
   return (
